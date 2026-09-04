@@ -194,7 +194,7 @@ The program uses a **`for` loop** to examine the digits of each OTP.
 | 🐍 **Python**           | Programming language                        |
 | 🔢 **NumPy**            | Random data generation and array operations |
 | 🟢 **Google Colab**     | Running and testing notebooks               |
-| 📓 **Jupyter Notebook** | Interactive Python environment              |
+
 
 ---
 
